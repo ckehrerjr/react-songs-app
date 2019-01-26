@@ -1,4 +1,4 @@
-# ReactJS Songs Example App
+# Songs Example App
 
 # Available Scripts
 
